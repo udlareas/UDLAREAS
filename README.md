@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @udlareas
-- 👀 I’m interested in learning how to code in Python/R and I have a special interest in data science.
-- 🌱 I’m currently learning how to code in Pyrhon/R.
-- 💞️ I’m looking to collaborate on data science projects in R, especially.
+- 👋 Hi, I’m @udlareas. Feel free to contact me!
 - 📫 How to reach me...you may contact me via e-mail on udlareas@gmail.com.
 
 <!---
